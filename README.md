@@ -3,7 +3,6 @@
 - 📫 sushmaks854@gmail.com / sshan854@uw.edu / https://www.linkedin.com/in/sushmakshankar/
 - 😄 Pronouns: she/her
 - 🔗 https://sushmashankar.framer.website/
-- ⚡ I love trying out new recipes, spending time outdoors exploring the PNW, following my favorite sports teams, playing NYT Connections, or watching Kollywood movies!
   
 <!---
 sushmakshankar/sushmakshankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
